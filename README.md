@@ -1,1 +1,2 @@
-# Task1_Robot-walking
+# Servo Motor Actuation Algorithm for Robot Walking
+## Introduction 
