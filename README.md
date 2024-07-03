@@ -84,4 +84,5 @@ void loop() {
   delay(500); // Wait for the movement to complete
 }
 ```
-
+## Conclusion
+This algorithm provides a basic framework for controlling a quadruped robot's walking motion using servo motors and an Arduino.
