@@ -28,7 +28,8 @@ n this report, we will discuss a simple algorithm to control servo motors to sim
    * Repeat the steps to create a continuous walking motion.
 ## Implementation
 Now for the code we are using C++ to implement the walking algorithm.
-'''
+
+```
 #include <Servo.h>
 
 // Define the servo motors
@@ -82,5 +83,5 @@ void loop() {
   servoBackRight.write(backRightDown);
   delay(500); // Wait for the movement to complete
 }
-'''
+```
 
